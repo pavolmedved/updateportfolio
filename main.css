@@ -1,0 +1,18 @@
+.h {
+    text-align: center;
+    background-color: lightblue;
+    font-size: 70px;
+    box-sizing: border-box;
+}
+.img {
+    float: right;
+}
+
+.list-group {
+    text-align: center;
+}
+
+.article {
+    float: light;
+
+}
